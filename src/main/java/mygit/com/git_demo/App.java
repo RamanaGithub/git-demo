@@ -8,9 +8,8 @@ public class App
 {    int i=10;
 	public void addData(String data) {
 		System.out.println("the data is"+data);
-		if(i==10) {
-		System.out.println("newly added statement.....")	
-		}
+		if(data.equals(Constant.Data_Type)) {
+		System.out.println("newly added statement.....from Constant class")	;		}
 	}
     public static void main( String[] args )
     {
