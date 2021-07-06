@@ -11,7 +11,7 @@ public class App
 		if(data.equals(Constant.Data_Type)) {
 		System.out.println("newly added statement.....from Constant class")	;	
 		System.out.println("statement added on 6th july.....for testing");	;
-		System.out.println("Error statement  added on 6th july.....now");	;
+		System.out.println("Error statement  added on 6th july.....now....");	;
 		}
 	}
     public static void main( String[] args )
