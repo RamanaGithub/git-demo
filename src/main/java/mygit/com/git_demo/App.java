@@ -12,6 +12,7 @@ public class App
 		System.out.println("newly added statement.....from Constant class")	;	
 		System.out.println("statement added on 6th july.....for testing");	;
 		System.out.println("Error statement  added on 6th july.....now....");	;
+			System.out.println("newly added statement from remote....on7th,july");
 		}
 	}
     public static void main( String[] args )
