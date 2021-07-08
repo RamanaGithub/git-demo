@@ -17,6 +17,9 @@ public class App
 		public void hello(){
 			System.out.println("new method added in the remote repo");
 		}
+		public String sayHi(){
+			return "sayinh hi to git world..............................";
+		}
 	}
     public static void main( String[] args )
     {
