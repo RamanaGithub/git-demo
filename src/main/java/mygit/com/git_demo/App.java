@@ -14,6 +14,9 @@ public class App
 		System.out.println("Error statement  added on 6th july.....now....");	;
 			System.out.println("newly added statement from remote....on7th,july");
 		}
+		public void hello(){
+			System.out.println("new method added in the remote repo");
+		}
 	}
     public static void main( String[] args )
     {
